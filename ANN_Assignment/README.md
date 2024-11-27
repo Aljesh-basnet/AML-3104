@@ -48,6 +48,5 @@ Users can input feature values into an interactive web application that uses Str
 
 ### Output
 
-https://assignment4-ann-2k7sxi9nhe5j8p8hfe3ipq.streamlit.app/
-
-
+![alt text](<Screenshot 2024-11-27 135116.png>)
+![alt text](<Screenshot 2024-11-27 135138.png>)
